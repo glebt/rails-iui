@@ -136,15 +136,3 @@ register_orientation_change
   Must be placed inside the body tag for the layout for observe_orientation_change
   to work.
 
-
-Upcoming
-========
-
-Tests
-Better documentation
-
-Better JavaScript effects
-
-
-
-Copyright (c) 2008 Noel Rappin, released under the MIT license
